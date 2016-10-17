@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="hr-HR">
+<head profile="http://gmpg.org/xfn/11">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>dalmacija-ribolov.hr</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" media="screen" href="../dizajn/css.css" />
+<script src="../dizajn/jquery.js" type="text/javascript"></script>
+<script src="../dizajn/jquery.plugins.js" type="text/javascript"></script>
+<script src="../dizajn/js.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+      <div id="zaglavlje"><a href="../index-en.html" title="Return to home page"><img src="../dizajn/zaglavlje.jpg" /><span id="naslov">Dalmacija&nbsp;&nbsp;ribolov<span>d.o.o.</span><br /><span id="slogan">English version of slogan.</span></span></a></div>
+<div id="kontejner">
+      <div id="livo">
+        <ul id="navigacija">
+          <li><a href="../index-en.html">Home</a></li>
+          <li><a href="../riba-en.html">Products</a></li>
+          <li><a href="../kontakt-en.html">Contact</a></li>
+          <li><a href="../index.html">Hrvatski</a></li>
+        </ul>
+        <span class="livoVrh">&nbsp;</span><div class="botunVeliki">
+        	<ul>
+              <li>Dalmacija ribolov d.o.o.</li>
+              <li>Poljana Plankit 1<br/>HR-23000 Zadar<br/>Croatia</li>
+              <li>Tel. +385 23 253 094</li>
+              <li>Fax. +385 23 253 095</li>
+              <li>Mob. +385 91 323 6900</li>
+              <li><a href="../infoATdalmacija-ribolov.hr" class="emajl">info@dalmacija-ribolov.hr</a></li>
+            </ul>
+        </div><span class="livoDno">&nbsp;</span>
+      </div>
+      <div id="sadrzaj"><!-- TemplateBeginEditable name="sadrzaj" -->
+        <h1>Dalmacija ribolov d.o.o.</h1>
+        <p>Tvrtka Dalmacija ribolov se bavi ulovom i prodajom sitne plave ribe, prvenstveno srdele i inćuna.  Dio ulova sitne plave ribe se koristi kao hrana za tune u uzgajalištu <a href="http://www.jadran-tuna.hr/">Jadran tune</a>, a ostatak plasiramo na tržište. U vlasništvu Dalmacija ribolova su tri moderna ribarska broda.</p>
+<p>Misija tvrtke je prosperirati na tržištu, istodobno vodeći računa o održivom razvoju. Jasno je da u vrijeme naprednih tehnologija lociranja i izlova ribe granica više ne smije biti naša maksimalna mogućnost ulova nego treba voditi računa o prirodnoj ravnoteži. Tradicionalni način gledanja na ribolovne kvote (gdje ribari kvotu doživljavaju kao granicu nametnutu od strane zakonodavca) je kratkovidan i dugoročno vodi u propast. Zbog toga Dalmacija ribolov naglasak stavlja na društvenu odgovornost želeći očuvati prirodna bogatstva koristeći resurse unutar održivih granica ulova kako bi se zadržala prirodna ravnoteža jadranskog ekosustava. </p>
+      <!-- TemplateEndEditable --></div>
+      <div id="desno">
+      	<a href="../kontakt-en.html#lokacije" class="botun"><span style="background-image:url(../dizajn/hrvatska.png)">Location<br /><span class="desnoSitno">our location map</span></span></a>
+        <a href="http://www.jadran-tuna.hr/" class="botun"><span style="background-image:url(../dizajn/tuna.png)">&nbsp;&nbsp;&nbsp;Jadran tuna<br /><span class="desnoSitno">business partner</span></span></a>
+        <span class="desnoVrh">&nbsp;</span><div class="botunVeliki">
+        	<h3>Posebnosti:</h3>
+            <ul><li>moderno opremljeni ribarski brodovi</li>
+            	<li>učinkovita organizacija i stručno osoblje</li>
+                <li>unaprijed osiguran plasman ulova</li>
+            </ul>
+		</div><span class="desnoDno">&nbsp;</span><br />
+      </div>
+      <div id="podnozje">
+      	<div><a href="../index-en.html">Home page</a><ul>
+        	<li><a href="../index-en.html#uvod">Dalmacija ribolov</a></li>
+            <li><a href="../index-en.html#organizacija">Organisation</a></li>
+        </ul></div>
+        <div><a href="../riba-en.html">Products</a><ul>
+        	<li><a href="../riba-en.html#srdela">Pilchard</a></li>
+            <li><a href="../riba-en.html#incun">Anchovie</a></li>
+          <li><a href="../riba-en.html#tuna">Bluefin tuna</a></li>
+        </ul></div>
+        <div><a href="../kontakt.html">Contact</a><ul>
+        	<li><a href="../kontakt-en.html#kontakt">Contact form</a></li>
+        	<li><a href="../kontakt-en.html#informacije">Contact details</a></li>
+            <li><a href="../kontakt-en.html#lokacije">Our location</a></li>
+        </ul></div>
+        <div><a href="../index.html">Hrvatski</a><ul>
+        	<li><a href="../index.html">Početna</a></li>
+            <li><a href="../proizvodi.html">Proizvodi</a></li>
+          <li><a href="../kontakt.html">Kontakt</a></li>
+        </ul></div>
+       </div>
+</div>
+<div id="kopirajt">2010 for Dalmacija ribolov d.o.o.<a href="http://www.tomislavdekovic.iz.hr/">&nbsp;..::sheshnjak::..&nbsp;</a></div>
+</body></html>

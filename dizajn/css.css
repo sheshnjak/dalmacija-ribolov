@@ -1,0 +1,289 @@
+/* design: sheshnjak		colors: #0af		#002033
+www.tomislavdekovic.iz.hr
+*/
+* {margin:0;padding:0}
+html {height:100%;background:#000;}
+body {
+color:#046;
+font-size:12px;
+line-height:18px;
+font-family:Verdana,Arial,Helvetica,sans-serif;
+font-size:12px;
+background: #666 url(pozadina.jpg) 50% 0 repeat-x;
+}
+a,a:link,a:active,a:visited {color:#166FE7;text-decoration:none;}
+a:hover {color:#166FE7;}
+#desno h4 {font-size:13px;font-variant:small-caps;margin-left:8px;}
+h1,h2,h3,h4,h5,h6 {padding:15px 0 10px 0;}
+dl dd {
+font-size:14px;
+font-weight:bold;
+margin-left:40px;
+}
+dl dt {
+font-size:14px;
+margin-top:12px;
+}
+#sadrzaj {
+width:450px;
+float:left;
+padding:26px 20px 0 20px;
+}
+#sadrzaj p{text-align:justify;margin-bottom:10px;}
+#sadrzaj a:hover, #info a:hover {text-decoration:underline;}
+#kontejner {
+width:949px;
+margin-left:auto;
+margin-right:auto;
+margin-top:-10px;
+background-color:#fff;
+padding-top:65px;
+}
+#zaglavlje {
+height:140px;
+text-align:center;
+}
+#zaglavlje img {border:none;margin-top:0;}
+#naslov{
+font-size:45px;
+font-variant:normal;
+font-weight:normal;
+line-height:14px;
+margin:-52px 0 0 486px;
+visibility:hidden;
+}
+#naslov span  {
+font-size:13px;
+line-height:15px;
+}
+a #naslov{color:#fff;}
+#naslov #slogan {font-size:15px;font-weight:bold;color:#166FE7;margin:-38px 0 0 500px;display:block;visibility:visible;}
+#zaglavlje a:hover span#slogan {color:#0af;}
+#livo{
+float:left;
+padding-left:25px;
+}
+#desno a, #livo a{color:#fff}
+#desno img, #livo img{border:none;}
+.botun, .botunVeliki {color:#fff}
+#navigacija {
+font-size:20px;
+text-align:center;
+text-transform:uppercase;
+}
+#navigacija a {
+background:url("botuni.png") repeat scroll left top #fff;
+width:200px;
+height:52px;
+display:block;
+line-height:50px;
+}
+#navigacija a.aktivna {background-position:center 211px;}
+ul#navigacija li {
+list-style:none;
+margin:0 5px 0 0;
+padding:7px 0;
+}
+#navigacija a:hover {background-position:center 211px;}
+#navigacija ul {display:none;}
+#navigacija a.aktivna + ul {display:block;}
+#navigacija li ul {margin-bottom:10px;}
+#navigacija li ul li {
+font-size:12px;
+list-style-position:outside;
+list-style-type:square;
+margin:-10px 0 -30px 35px;
+padding:0;
+text-align:left;
+}
+#navigacija li ul li a {
+background:none repeat scroll 0 0 transparent;
+color:#004466;
+width:100px;
+}
+#livo .botunVeliki { 
+background-color:#bbb;
+border:2px solid #707070;border-top:none;border-bottom:none;
+width:196px;
+}
+#livo .livoVrh {
+background:url("botuni.png") repeat scroll left 421px #FFFFFF;
+display:block;
+width:200px;
+margin-bottom:-3px;
+margin-top:10px;
+}
+#livo .livoDno {
+background:url("botuni.png") repeat scroll left 360px #FFFFFF;
+display:block;
+width:200px;
+margin-top:-3px;
+}
+#desno{
+float:right;
+padding-right:25px;
+padding-top:8px;
+/*								width:176px;*/
+}
+#desno .botun {
+background: url("botuni.png") no-repeat scroll left bottom #fff;
+overflow:hidden;
+height:76px;
+display:block;
+font-size:20px;
+text-transform:uppercase;
+}
+#desno .desnoVrh {
+background:url("botuni.png") repeat scroll left 341px #FFFFFF;
+display:block;
+width:180px;
+margin-bottom:-3px;
+margin-top:20px;
+}
+#desno .desnoDno {
+background:url("botuni.png") repeat scroll left 283px #FFFFFF;
+display:block;
+width:180px;
+margin-top:-3px;
+}
+#desno .botunVeliki{
+background-image:none;
+background-color:#bbb;
+border:2px solid #707070;border-top:none;border-bottom:none;
+width:171px;
+}
+#desno .botunVeliki ul li {
+list-style-type:disc;
+margin-left:22px;
+padding-left:0;
+}
+#desno #posebnosti {height:120px;font-variant:small-caps;font-weight:bold;}
+.botun + .botun {margin-top:20px;}
+#desno .botunVeliki h3 {padding-left:13px;}
+#desno .botun img {padding-top:5px;}
+#desno a.botun span{
+background:none no-repeat scroll left 5px transparent;
+display:block;
+height:100px;
+margin:0 0 0px 5px;
+padding:26px 0 0 0px;
+text-align:center;
+text-transform:none;
+}
+#desno .botun span.desnoSitno {
+font-size:12px;
+display:block;
+margin:-14px 0 0 -7px;
+margin-top:-12px;
+}
+#desno a.botun span.desnoSitno {color:#bbb;}
+#desno a:hover.botun  span.desnoSitno {color:#fff;}
+ul {list-style-type:none;}
+ul li {
+background-repeat:no-repeat;
+background-position:0 7px;
+margin:3px 0;
+padding:4px 0 4px 15px;
+}
+#podnozje {
+background:#fff url(podnozje.jpg) repeat-x top left;
+height:120px;
+border-bottom:8px solid #166FE7;
+clear:both;
+font-size:12px;
+overflow:hidden;
+padding-top:30px;
+text-align:center;
+display:block;
+}
+#podnozje a{}
+#podnozje a.trenutna{color:#0af;}
+#podnozje a:hover{color:#0af;}
+#podnozje div {
+display:inline-table;
+width:200px;
+font-size:18px;
+text-transform:uppercase;
+}
+#podnozje div ul li{
+font-size:12px;
+margin:0px 0 0 71px;
+text-align:left;
+text-transform:none;
+list-style-type:disc;
+padding-left:0;
+}
+.livo {float:left;}
+.desno {float:right;}
+.aligncenter {display:block;margin-left:auto;margin-right:auto;}
+#info {float:right;width:200px;font-size:11px;}
+img {border:1px solid #0af;margin:5px;padding:1px;}
+#sadrzaj p img {margin-top:12px}
+#kopirajt{font-size:10px;text-align:center;}
+#kopirajt a{color:#036}
+#kopirajt a:hover{color:#0af}
+fieldset {border:none;width:340px;}
+#Fime, #Femail, #Ftelefon, #Fporuka {font-variant:small-caps;font-size:15px;font-weight:bold;margin-bottom:15px;}
+#Femail {float:left;margin-right:47px;}
+#Fporuka {clear:left}
+form input,form textarea {display:block;margin-top:0px;}
+#botuni{clear:left; display:block}
+form .button {display:inline;margin:5px 0 0 0;}
+#gmap {width:670px;height:500px;color:#002033;line-height:18px;}
+
+#lbOverlay {position: fixed;z-index: 9999;left: 0;top: 0;width: 100%;height: 100%;background-color: #000;cursor: pointer;}
+#lbCenter, #lbBottomContainer {position: absolute;z-index: 9999;overflow: hidden;}
+#lbCenter {background-color: #fff;}
+.lbLoading {background: #fff url(loading.gif) no-repeat center;}
+#lbImage {position: absolute;left: 0;top: 0;border: 1px solid #fff;background-repeat: no-repeat;}
+#lbPrevLink, #lbNextLink {display: block;position: absolute;top: 0;width: 50%;outline: none;border: none;}
+#lbPrevLink {left: 0;}
+#lbPrevLink:hover {background: transparent url(prev.png) no-repeat 0 35%;}
+#lbNextLink {right: 0;}
+#lbNextLink:hover {background: transparent url(next.png) no-repeat 100% 35%;}
+#lbBottom {border: 1px solid #fff;padding: 5px;border-top-style: none;}
+#lbCloseLink {display: block;float: right;margin-top: 32px;outline: none;}
+#lbCaption, #lbNumber {margin-right: 71px;}
+#lbNumber {text-align:left;}
+#lbCaption {color: #FFF;font-weight: bold;text-align: center;}
+#lbCaption div {font-weight: normal;}
+
+.nivoSlider {position:relative;}
+.nivoSlider img {position:absolute;top:0px;left:0px;}
+.nivoSlider a.nivo-imageLink {position:absolute;top:0px;left:0px;width:100%;height:100%;border:0;padding:0;margin:0;z-index:60;display:none;}
+.nivoSlider a{display:block;}
+.nivo-slice {display:block;position:absolute;z-index:50;height:100%;}
+.nivo-caption {position:absolute;left:0px;bottom:0px;background:#000;color:#fff;opacity:0.6;width:100%;z-index:89;}
+.nivo-caption p {padding:5px;margin:0;}
+.nivo-directionNav a {position:absolute;top:45%;z-index:99;cursor:pointer;display:block;width:32px;height:34px;background:url(arrows.png) no-repeat;text-indent:-9999px;border:0;}
+.nivo-prevNav {left:0px;}
+a.nivo-prevNav {left:10px;}
+.nivo-nextNav {right:0px;}
+a.nivo-nextNav {background-position:-32px 0;right:10px;}
+.nivo-controlNav {position:absolute;left:40%;bottom:0px;}
+.nivo-controlNav a {position:relative;z-index:99;cursor:pointer;display:block;width:10px;height:10px;background:url(bullets.png) no-repeat;text-indent:-9999px;border:0;margin-right:3px;float:left;}
+.nivo-controlNav a.active {font-weight:bold;}
+.nivo-controlNav a.active {background-position:-10px 0;}
+#slideShow {
+width:450px;
+height:290px;
+overflow:hidden;
+margin-bottom: 10px;
+border:1px solid #0af;
+background:center center no-repeat;
+}
+#slideShow img {
+border:none;
+}
+.tip {
+    color:#fff;
+    background:#bbb;
+    display:none; /*--Hides by default--*/
+    padding:10px;
+    width:300px;
+    border:2px solid #707070;
+    position:absolute;    z-index:1000;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
